@@ -36,7 +36,7 @@ Approach    → Pure HTTP, no browsers. Speed & scale first.
 
 I write about web scraping, data engineering, and building lean infrastructure — in Spanish and English.
 
-- 🐦 [X / Twitter](https://x.com/) — Scraping tips, war stories, and data drops
+- 🐦 [X / Twitter](https://x.com/edu_seo_scraper) — Scraping tips, war stories, and data drops
 - 📖 Blog — Coming soon
 
 ### 💡 My philosophy
