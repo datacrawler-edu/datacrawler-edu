@@ -38,17 +38,6 @@ Approach    → Pure HTTP, no browsers. Speed & scale first.
 | Avg. request rate | ~100 req/s per instance |
 | Infrastructure cost | ~$5/month |
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datacrawler-edu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datacrawler-edu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datacrawler-edu&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 📝 Writing & content
 
 I write about web scraping, data engineering, and building lean infrastructure — in Spanish and English.
