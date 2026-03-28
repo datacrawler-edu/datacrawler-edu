@@ -16,6 +16,12 @@ Infra       → Cloudflare Workers, Hetzner, Oracle Cloud ARM
 Approach    → Pure HTTP, no browsers. Speed & scale first.
 ```
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### 🚀 What I'm building
 
 - **Domain Scanner** — Scanning 200M+ domains for web technology detection (Rust)
@@ -31,6 +37,17 @@ Approach    → Pure HTTP, no browsers. Speed & scale first.
 | Google Maps records | 100M+ |
 | Avg. request rate | ~100 req/s per instance |
 | Infrastructure cost | ~$5/month |
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datacrawler-edu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datacrawler-edu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datacrawler-edu&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📝 Writing & content
 
